@@ -2,6 +2,7 @@
 * 👋 Hi, I’m @8ionic
 * 👀 I’m interested in pen-testing
 * 🌱 I’m currently learning the Red-Teaming on [THM](https://tryhackme.com)
+* Check out my [Bug-Report Template](https://bionics.notion.site/Bug-Report-Template-ddd26e2029484ce89eaf0382f8f1231c)
 * 📫 How to reach me:
 
 **Tryhackme:**\
